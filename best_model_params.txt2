@@ -1,0 +1,13 @@
+learning_rate: 0.08990546873237987
+depth: 6
+l2_leaf_reg: 9.891693233487187
+random_strength: 1.1023284959814919
+iterations: 730
+border_count: 66
+min_data_in_leaf: 24
+bootstrap_type: MVS
+leaf_estimation_iterations: 3
+boosting_type: Ordered
+random_seed: 42
+verbose: 0
+eval_metric: AUC
